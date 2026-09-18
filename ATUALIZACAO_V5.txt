@@ -1,0 +1,13 @@
+CARTEIRA DE CLIENTES CASARÃO DO CAMPO - V5 ATUALIZAÇÃO
+
+Esta versão usa o MESMO applicationId da V4 e versionCode maior.
+Instale o APK V5 por cima da V4. NÃO desinstale a V4.
+
+Objetivo desta atualização:
+- preservar banco de dados, 258 clientes e movimentações já gravadas;
+- PDFs passam a ser gravados em:
+  Download/Movimentação de Clientes Sabor do Campo/
+- os nomes dos relatórios continuam identificando o tipo de PDF.
+
+IMPORTANTE:
+No Android, aceite a atualização do aplicativo quando solicitado.

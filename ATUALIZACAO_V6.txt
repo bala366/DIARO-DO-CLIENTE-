@@ -1,0 +1,5 @@
+V6 - EDITAR E EXCLUIR LANÇAMENTOS
+No HISTÓRICO, toque em qualquer lançamento.
+A janela permite alterar tipo, valor e observação, ou EXCLUIR com confirmação.
+Ao salvar/excluir, Dashboard, Histórico e relatórios PDF passam a usar os dados atualizados.
+Mantidos 258 clientes e pasta de PDFs em Download/Movimentação de Clientes Sabor do Campo.
